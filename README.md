@@ -15,6 +15,11 @@ https://github.com/user-attachments/assets/751cf8cd-0e4c-4b2c-a7f3-fa25ae2e40a7
 
 **Failure View** <br/>
 
+
+https://github.com/user-attachments/assets/248b21a4-d457-42a1-9d34-d2ae4344d4fc
+
+
+
 <div style="text-align: center;">
   <video style="max-width:80%;box-shadow:0 2.8px 2.2px rgba(0, 0, 0, 0.12);outline:none;" loop="true" autoplay="autoplay" controls="controls" muted>
     <source src="https://assets.ccbp.in/frontend/content/react-js/jobby-app-failure-output-v1.mp4" type="video/mp4">
